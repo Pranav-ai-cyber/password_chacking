@@ -44,9 +44,8 @@ Using this tool can help you understand password security and create safer accou
 
 This project is open-source under the MIT License.
 
-# Tools used
-kaspersky password checker [https://password.kaspersky.com/]
-Bitwarden Password Tester [https://bitwarden.com/password-strength/]
+# Tool used
+CatsWhoCode [https://catswhocode.com/password-strength-checker/]
 
 
 *Created as a learning project to understand password security principles and evaluation techniques.*
